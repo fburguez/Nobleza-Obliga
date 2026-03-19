@@ -9,7 +9,7 @@ Este proyecto tiene como objetivo desarrollar y resolver las actividades propues
 
 <p align="center">
   <b>Juan Cruz Rocca</b><br>
-  <img src="img/Rocca_Foto.jpg" width="120" style="border-radius: 15px;"><br>
+  <img src="img/Rocca_Foto.jpg" width="120" height="120" style="border-radius: 50%; object-fit: cover;"><br>
   Estudiante de Ingeniería en Informática con interés en el desarrollo de software y estructuras de datos.
 </p>
 
@@ -17,7 +17,7 @@ Este proyecto tiene como objetivo desarrollar y resolver las actividades propues
 
 <p align="center">
   <b>Nicolás Fresca</b><br>
-  <img src="img/Fresca_Foto.jpg" width="120" style="border-radius: 15px;"><br>
+  <img src="img/Fresca_Foto.jpg" width="120" height="120" style="border-radius: 50%; object-fit: cover;"><br>
   Estudiante con conocimientos en Java, estructuras de datos y optimización de código.
 </p>
 
@@ -25,7 +25,7 @@ Este proyecto tiene como objetivo desarrollar y resolver las actividades propues
 
 <p align="center">
   <b>Facundo Burguez</b><br>
-  <img src="img/Facundo_Burguez.jpg" width="120" style="border-radius: 15px;"><br>
+  <img src="img/Facundo_Burguez.jpg" width="120" height="120" style="border-radius: 50%; object-fit: cover;"><br>
   Enfoque en lógica de programación y desarrollo de funcionalidades.
 </p>
 
@@ -33,7 +33,7 @@ Este proyecto tiene como objetivo desarrollar y resolver las actividades propues
 
 <p align="center">
   <b>Tomás Lihuel Rodríguez Fernández Otero</b><br>
-  <img src="img/Tomas_Foto.jpg.jpeg" width="120" style="border-radius: 15px;"><br>
+  <img src="img/Tomas_Foto.jpg.jpeg" width="120" height="120" style="border-radius: 50%; object-fit: cover;"><br>
   Interés en diseño de soluciones y modelado de sistemas.
 </p>
 
@@ -41,7 +41,7 @@ Este proyecto tiene como objetivo desarrollar y resolver las actividades propues
 
 <p align="center">
   <b>Darío Gomez</b><br>
-  <img src="img/gomez_foto.jpeg" width="120" style="border-radius: 15px;"><br>
+  <img src="img/gomez_foto.jpeg" width="120" height="120" style="border-radius: 50%; object-fit: cover;"><br>
   Enfocado en implementación y validación de soluciones.
 </p>
 
@@ -49,6 +49,7 @@ Este proyecto tiene como objetivo desarrollar y resolver las actividades propues
 
 <p align="center">
   <b>Vacante</b><br>
+  <img src="img/placeholder.txt" width="120" height="120" style="border-radius: 50%; object-fit: cover;"><br>
   Espacio disponible para un futuro integrante.
 </p>
 
@@ -57,6 +58,7 @@ Este proyecto tiene como objetivo desarrollar y resolver las actividades propues
 ## ⚙️ Tecnologías utilizadas
 - Java
 - Git / GitHub
+
 ---
 
 ## 🎯 Objetivo
