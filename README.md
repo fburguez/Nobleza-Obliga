@@ -4,6 +4,6 @@ INTEGRANTES:
 - Rocca, Juan Cruz
 - Fresca, Nicolás
 - Burguez, Facundo
-- Rodriguez Otero, Tomás
+- Rodriguez Fernandez Otero, Tomás Lihuel
 - Gomez, Darío
 - Vacío 
