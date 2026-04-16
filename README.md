@@ -5,7 +5,7 @@ Este proyecto tiene como objetivo desarrollar y resolver las actividades propues
 
 ---
 
-## 👥 Integrantes del equipo
+# 👥 Integrantes del equipo
 
 <p align="center">
   <b>Juan Cruz Rocca</b><br><br>
@@ -47,14 +47,6 @@ Este proyecto tiene como objetivo desarrollar y resolver las actividades propues
 
 ---
 
-<p align="center">
-  <b>Vacante</b><br><br>
-  <img src="img/placeholder.txt" width="120" height="120" style="border-radius:50%;"><br>
-  Espacio disponible para un futuro integrante.
-</p>
-
----
-
 ## ⚙️ Tecnologías utilizadas
 - Java
 - Programación orientada a objetos
@@ -68,12 +60,12 @@ Desarrollar implementaciones eficientes y correctas de las actividades propuesta
 
 # 🛠️ Desarrollo
 
-## Actividad 1 clase 2 - 19/03/26
+## Actividad 1 - Clase 2 - 19/03/26
 <p align="center">
 <img src="img/Pila.jpg" width="516" height="303" style="border-radius:50%;"><br>
 </p>
 
-## Actividad 2 clase 2 - 19/03/26
+## Actividad 2 - Clase 2 - 19/03/26
 <p>
 Estrategia 1: Se reserva una variable auxiliar que puede utilizarse con 2 fines diferentes. Puede almacenar la cantidad (tamaño) del arreglo o el valor del tope (último valor en orden). Aquí cada dato que se añade se coloca en la posicion siguiente a la del tope actual, convirtiendose el nuevo valor en el tope, sin necesidad de mover los demás elementos. 
 </p>p<br>
@@ -98,4 +90,18 @@ Estrategia 3: Está es la única que no necesita de una variable auxiliar. Se re
 <img src="img/Estrategia3.png" width="720" height="231" style="border-radius:50%;"><br>
 </p>
 
+---
+
+## Actividad TP MODELO DE TDAS Clases 3 y 4 - 26/03/26 - 16/04/26
+<p>
+  Se realizó el TP; GUÍA DE TRABAJOS PRÁCTICOS finde XL: MODELADO DE TDAS, y sus 6 Bloques exitosamente.
 </p>
+
+---
+
+## Ejercicio Pila Dinámica - Clase 5 - 16/04/26
+<p>
+  Se tuvo que pasar los elementos de una Pila Estática a una Pila Dinámica (mediante el uso de un Auxiliar)
+</p>
+
+---
