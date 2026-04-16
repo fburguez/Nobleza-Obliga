@@ -105,7 +105,9 @@ Estrategia 3: Está es la única que no necesita de una variable auxiliar. Se re
 ## Ejercicio Pila Dinámica y Cola Dinámica - Clase 5 - 16/04/26
 <p>
   Se tuvo que pasar los elementos de una Pila Estática a una Pila Dinámica (mediante el uso de un Auxiliar).
-  Además, se tuvo que hacer el mismo ejercicio con Colas, a excepción de que la primera Cola (Estática), tiene que quedar intacta.
+</p>
+<p>
+    Además, se tuvo que hacer el mismo ejercicio con Colas, a excepción de que la primera Cola (Estática), tiene que quedar intacta.
 </p>
 
 ---
