@@ -10,8 +10,8 @@ public class Alumno {
         this.legajo = legajo;
     }
 
-    public void setNombreCompleto(String legajo){
-        this.legajo = legajo;
+    public void setNombreCompleto(String nombreCompleto){
+        this.nombreCompleto = nombreCompleto;
     }
 
     public void setPrioridadInscripcion(String departamento){
