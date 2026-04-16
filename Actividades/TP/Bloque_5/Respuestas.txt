@@ -1,0 +1,32 @@
+======================================================================
+                  BLOQUE 5 - CUESTIONARIO TEÓRICO
+======================================================================
+
+3. ANÁLISIS DE ESTRATEGIAS (PILAS CON ARREGLOS)
+----------------------------------------------------------------------
+Existen tres formas de gestionar el "tope" en un arreglo:
+
+- ESTRATEGIA 1 (Contador): Usa un entero externo que marca la primera
+  posición libre. Se guarda el dato en arreglo[contador] y se suma 1.
+- ESTRATEGIA 2 (Desplazamiento): El tope está siempre fijo en el
+  índice [0]. Requiere mover todo el contenido para cada inserción.
+- ESTRATEGIA 3 (Metadato): El casillero arreglo[0] guarda el contador
+  de elementos. Los datos reales comienzan en el índice [1].
+
+4. LA ESTRATEGIA MÁS INEFICIENTE
+----------------------------------------------------------------------
+La más ineficiente es la ESTRATEGIA 2 por los siguientes motivos:
+
+* Costo de Desplazamiento (O(n)): Al obligar que el tope esté en [0],
+  cada vez que se apila, se deben mover todos los elementos actuales
+  una posición a la derecha. El tiempo crece según el tamaño de la pila.
+* Comparativa: Mientras las Estrategias 1 y 3 tienen un costo constante
+  O(1) (acceso directo), la Estrategia 2 tiene un costo lineal O(n).
+
+----------------------------------------------------------------------
+RESUMEN DE EFICIENCIA (APILAR):
+----------------------------------------------------------------------
+Estrategia 1: O(1) -> ALTA (Óptima)
+Estrategia 2: O(n) -> BAJA (Ineficiente)
+Estrategia 3: O(1) -> ALTA (Óptima)
+======================================================================
