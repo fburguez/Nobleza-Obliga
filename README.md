@@ -67,8 +67,8 @@ Desarrollar implementaciones eficientes y correctas de las actividades propuesta
 
 ## Actividad 2 - Clase 2 - 19/03/26
 <p>
-**Estrategia** 1: Se reserva una variable auxiliar que puede utilizarse con 2 fines diferentes. Puede almacenar la cantidad (tamaño) del arreglo o el valor del tope (último valor en orden). Aquí cada dato que se añade se coloca en la posicion siguiente a la del tope actual, convirtiendose el nuevo valor en el tope, sin necesidad de mover los demás elementos. 
-</p>p<br>
+Estrategia 1: Se reserva una variable auxiliar que puede utilizarse con 2 fines diferentes. Puede almacenar la cantidad (tamaño) del arreglo o el valor del tope (último valor en orden). Aquí cada dato que se añade se coloca en la posicion siguiente a la del tope actual, convirtiendose el nuevo valor en el tope, sin necesidad de mover los demás elementos. 
+</p><br>
 
 <p align="center">
 <img src="img/Estrategia1.png" width="716" height="235" style="border-radius:50%;"><br>
