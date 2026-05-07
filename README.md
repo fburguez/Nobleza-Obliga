@@ -111,3 +111,18 @@ Estrategia 3: Está es la única que no necesita de una variable auxiliar. Se re
 </p>
 
 ---
+
+<br>
+
+## Parcial 1 - Clase 7 - 30/04/26
+<p>
+  Se tuvo que rendir en un tiempo de una hora maxima sobre un Google Forms.
+</p>
+
+---
+
+## Ejercicio Comparativa de Costos y Complejidad de TDAs - Clase 8 - 07/05/26
+<p>
+  Se comparó mediante una calculadora Big-O, la complejidad de los diferentes TDAs vistos y sus variantes Estáticos y Dinámicos.
+</p>
+
