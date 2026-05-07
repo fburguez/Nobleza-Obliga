@@ -111,7 +111,6 @@ Estrategia 3: Está es la única que no necesita de una variable auxiliar. Se re
 </p>
 
 ---
-
 <br>
 
 ## Parcial 1 - Clase 7 - 30/04/26
@@ -120,6 +119,7 @@ Estrategia 3: Está es la única que no necesita de una variable auxiliar. Se re
 </p>
 
 ---
+<br>
 
 ## Ejercicio Comparativa de Costos y Complejidad de TDAs - Clase 8 - 07/05/26
 <p>
