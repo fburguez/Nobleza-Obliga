@@ -125,6 +125,10 @@ Estrategia 3: Está es la única que no necesita de una variable auxiliar. Se re
 <p>
   Se comparó mediante una calculadora Big-O, la complejidad de los diferentes TDAs vistos y sus variantes Estáticos y Dinámicos.
 </p>
-## Cuadro comparativo
-[Ver documento en Google Docs](https://docs.google.com/document/d/1yADpY6UUREgcWRYWImcjnyfifQ-yhphP/edit)
 
+## Cuadro comparativo
+(https://docs.google.com/document/d/1yADpY6UUREgcWRYWImcjnyfifQ-yhphP/edit)
+
+---
+
+<br>
