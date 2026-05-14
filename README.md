@@ -127,7 +127,7 @@ Estrategia 3: Está es la única que no necesita de una variable auxiliar. Se re
 </p>
 
 ## Cuadro comparativo
-[Cuadro comparativo de costos](https://docs.google.com/document/d/1yADpY6UUREgcWRYWImcjnyfifQ-yhphP/edit)
+🤓 [Cuadro comparativo de costos](https://docs.google.com/document/d/1yADpY6UUREgcWRYWImcjnyfifQ-yhphP/edit)
 
 ---
 
