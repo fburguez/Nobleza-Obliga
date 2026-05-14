@@ -6,3 +6,7 @@ Durante las clases **3** y **4** se estuvo trabajando en la implementación de d
 <p align="center">
   <img src="../../img/walterok.jpg" width="400">
 </p>
+
+## Trabajo práctico de Costos
+
+[📄 Ver PDF completo](GUÍA_DE_TRABAJOS_PRÁCTICOS_clase_3.pdf)
