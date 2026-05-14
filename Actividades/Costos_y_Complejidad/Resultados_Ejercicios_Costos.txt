@@ -1,5 +1,7 @@
-2) a)Costo final O(n), en este caso encontramos un ciclo for que su costo es N, mas tarde encontramos costos de menor complejidad como el C pero al ser el menor costo lo simplificamos. 
+1) El costo del algoritmo buscarYValidar() es O(n al cuadrado) ya que en la peor rama tenemos un for anidado con otro (ciclos/bucles anidados).
 
+2) a)Costo final O(n), en este caso encontramos un ciclo for que su costo es N, mas tarde encontramos costos de menor complejidad como el C pero al ser el menor costo lo simplificamos. 
+ 
 b)  Costo final: C 
       Seria c por que implica todo el algorinmo el menor costo, no hay un costo lineal o cuadrática.
 
@@ -14,6 +16,7 @@ c)Costo final: C
 
 6)costo final, O(ncuadrado) 
 
+7) Básicamente una búsqueda binaria, al dividir el grupo en 2 en cada iteración, en lugar de ir recorriendo uno a uno cada n, su cantidad de iteraciones dependerá de cuantas veces puede dividirse a n hasta llegar a 1, es decir, al valor deseado o a encontrar.
 
 8) El costo de esta implementación sería O(n al cuadrado), suponiendo que el método Pertenece() recorre una a una las posiciones de el conjunto B. De esta manera, por cada elemento de A, se recorre todos los elementos de B, por lo que si ambos conjuntos son de tamaño n, entonces se harán el total n*n iteraciones.
 
