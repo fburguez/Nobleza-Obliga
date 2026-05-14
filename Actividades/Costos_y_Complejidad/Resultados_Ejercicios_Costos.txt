@@ -1,3 +1,19 @@
+2) a)Costo final O(n),  en este caso encontramos un ciclo for que su costo es N, mas tarde encontramos costos de menor complejidad como el C pero al ser el menor costo lo simplificamos. 
+
+b)  Costo final: C 
+      Seria c por que imlica todo el algorinmo el menor costo, no hay un costo lineal o cuadratica
+
+c)Costo final: C  
+   Seria c por que imlica todo el algorinmo el menor costo, no hay un costo lineal o cuadratica
+
+3)Costo final: O(n),
+
+4)O(n), costo lineal
+
+5)Respuesta final: quedaria solo las n por que las c se desprecian al ser menor costo, con esto quedaria n+n, osea 2n 
+
+6)costo final, O(ncuadrado) 
+
 
 8) El costo de esta implementación sería O(n al cuadrado), suponiendo que el método Pertenece() recorre una a una las posiciones de el conjunto B. De esta manera, por cada elemento de A, se recorre todos los elementos de B, por lo que si ambos conjuntos son de tamaño n, entonces se harán el total n*n iteraciones.
 9) Es O(k) de costo, es decir, constante, ya que Desacolar() siempre hace lo mismo, que es quitar o deshacerse del último elemento, por lo que no requiere de ningún tipo de bucle. 
