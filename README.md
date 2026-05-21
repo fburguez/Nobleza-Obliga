@@ -121,7 +121,7 @@ Estrategia 3: Está es la única que no necesita de una variable auxiliar. Se re
 ---
 <br>
 
-## Ejercicio Comparativa de Costos y Complejidad de TDAs - Clase 8 - 07/05/26
+## Ejercicio Comparativa de Costos y Complejidad - Clase 8 - 07/05/26
 <p>
   Se comparó mediante una calculadora Big-O, la complejidad de los diferentes TDAs vistos y sus variantes Estáticos y Dinámicos.
 </p>
@@ -132,3 +132,11 @@ Estrategia 3: Está es la única que no necesita de una variable auxiliar. Se re
 ---
 
 <br>
+
+## Ejercicio de Costos y Complejidad - Clase 9 - 14/05/26
+<p>
+  Se trabajó en base a la teoría brindada sobre los diferentes tipos de costos: [(O(1), O(n), O(log n), O(n2), O(n!)]
+</p>
+ 
+ [Ejercicios Resueltos](Actividades/Costos_y_Complejidad/Resultados_Ejercicios_Costos.txt)
+
