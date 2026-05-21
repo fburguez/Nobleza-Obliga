@@ -145,3 +145,8 @@ Estrategia 3: Está es la única que no necesita de una variable auxiliar. Se re
 <br>
 
 ## Arboles - Clase 11 - 21/05/26
+<p>
+  Se resolvieron diferentes ejercicios a partir de la teoria sobre Arboles Binarios Balanceados
+</p>
+
+[Ejercicios Resueltos]()
