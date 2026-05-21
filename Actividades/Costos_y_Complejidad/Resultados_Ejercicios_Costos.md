@@ -1,20 +1,23 @@
+
+[Consignas](Consignas_Costos.txt)
+
+## Resultados
+
 1) El costo del algoritmo buscarYValidar() es O(n al cuadrado) ya que en la peor rama tenemos un for anidado con otro (ciclos/bucles anidados).
 
 2) a)Costo final O(n), en este caso encontramos un ciclo for que su costo es N, mas tarde encontramos costos de menor complejidad como el C pero al ser el menor costo lo simplificamos. 
  
-b)  Costo final: C 
-      Seria c por que implica todo el algorinmo el menor costo, no hay un costo lineal o cuadrática.
+b) Costo final: C Seria c por que implica todo el algorinmo el menor costo, no hay un costo lineal o cuadrática.
 
-c)Costo final: C  
-   Sería c por que imlica todo el algorinmo el menor costo, no hay un costo lineal o cuadrática.
+c) Costo final: C Sería c por que imlica todo el algorinmo el menor costo, no hay un costo lineal o cuadrática.
 
-3)Costo final: O(n),
+3) Costo final: O(n),
 
-4)O(n), costo lineal
+4) O(n), costo lineal
 
-5)Respuesta final: quedaría solo las n por que las c se desprecian al ser menor costo, con esto quedaria n+n, o sea 2n.
+5) Respuesta final: quedaría solo las n por que las c se desprecian al ser menor costo, con esto quedaria n+n, o sea 2n.
 
-6)costo final, O(ncuadrado) 
+6) Costo final, O(ncuadrado) 
 
 7) Básicamente una búsqueda binaria, al dividir el grupo en 2 en cada iteración, en lugar de ir recorriendo uno a uno cada n, su cantidad de iteraciones dependerá de cuantas veces puede dividirse a n hasta llegar a 1, es decir, al valor deseado o a encontrar.
 
