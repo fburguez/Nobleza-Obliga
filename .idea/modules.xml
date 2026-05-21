@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Actividades/TP_TDAs/Bloque_1/Bloque_1.iml" filepath="$PROJECT_DIR$/Actividades/TP_TDAs/Bloque_1/Bloque_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Actividades/TP_TDAs/Bloque_2/Bloque_2.iml" filepath="$PROJECT_DIR$/Actividades/TP_TDAs/Bloque_2/Bloque_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Actividades/TP_TDAs/Bloque_3/Bloque_3.iml" filepath="$PROJECT_DIR$/Actividades/TP_TDAs/Bloque_3/Bloque_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Actividades/TP_TDAs/Bloque_4/Bloque_4.iml" filepath="$PROJECT_DIR$/Actividades/TP_TDAs/Bloque_4/Bloque_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Actividades/TP_TDAs/Bloque_6/Bloque_6.iml" filepath="$PROJECT_DIR$/Actividades/TP_TDAs/Bloque_6/Bloque_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Actividades/TP_TDAs/Bloque_5/HospitalPremium/HospitalPremium.iml" filepath="$PROJECT_DIR$/Actividades/TP_TDAs/Bloque_5/HospitalPremium/HospitalPremium.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Nobleza-Obliga.iml" filepath="$PROJECT_DIR$/.idea/Nobleza-Obliga.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Actividades/TP_TDAs/Pila_Dinamica_Auxiliar/Pila_Dinamica_Auxiliar.iml" filepath="$PROJECT_DIR$/Actividades/TP_TDAs/Pila_Dinamica_Auxiliar/Pila_Dinamica_Auxiliar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Actividades/TP_TDAs/Bloque_5/TagsFacultad/TagsFacultad.iml" filepath="$PROJECT_DIR$/Actividades/TP_TDAs/Bloque_5/TagsFacultad/TagsFacultad.iml" />
+    </modules>
+  </component>
+</project>
