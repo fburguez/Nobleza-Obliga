@@ -13,4 +13,4 @@ Aquí se adjuntan los Ejercicios de las clases 8 y 9 hechos en clase a modo de p
 
 😧 [Consignas](Consignas_Costos.txt) 
 <br><br>
-😎 [Resultados](Resultados_Ejercicios_Costos.txt) 
+😎 [Resultados](Resultados_Ejercicios_Costos.md) 
