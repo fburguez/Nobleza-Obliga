@@ -2,7 +2,7 @@ Ejercicio 1 - Construcción de ABB
 
 1. El arbol resultante de los valores insertados al árbol vacio en orden es:
 
-<img src="img/arbolEj3.png">
+<img src="img/arbolEj3.png" width="400">
 
 2. Con recorrido In-Order
 
@@ -24,4 +24,4 @@ Ejercicio 3 - Eliminación con In-Order
 
 2. El valor sucesor es el 40 y el árbol queda como en la siguiente imágen:
 
-<img src="img/arbolEj3.png">
+<img src="img/arbolEj3.png" width="400">
