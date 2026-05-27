@@ -5,7 +5,7 @@
 <p align="center">
   <img src="img/arbolEj3.png" width="400">
 </p>
-<br><br>
+<br>
 
 2. Con recorrido In-Order
 
