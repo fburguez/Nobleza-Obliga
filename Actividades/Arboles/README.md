@@ -1,4 +1,4 @@
-## Árboles 🌲🌲🌲
+# Árboles 🌲🌲🌲
 En esta carpeta se encuentran los diferentes ejercicios de Árboles
 
 ## ABB (Árbol Binario Balanceado)
