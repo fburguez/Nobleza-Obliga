@@ -31,3 +31,35 @@ Hojas son los nodos: 20, 40, 60, 80
 <p align="center">
   <img src="img/arbolEj3.png" width="400">
 </p>
+
+## Ejercicio 4 -  Factores de Balance AVL
+<br><br>
+<p align="center">
+  <img scr="img/ejercicio4.png" whidth="400">
+</p>
+Fctores de Balance:
+
+Nodo 10 (Hoja):
+bf = h(null) - h(null)
+bf = -1 - (-1) = 0
+
+Nodo 25 (Hoja):
+bf = h(null) - h(null)
+bf = -1 - (-1) = 0
+
+Nodo 40 (Hoja):
+bf = h(null) - h(null)
+bf = -1 - (-1) = 0
+
+Nodo 20:
+Su hijo izquierdo es el 10 (altura 0). Su hijo derecho es el 25 (altura 0).
+bf = h(10) - h(25)
+bf = 0 - 0 = 0
+
+Raíz 30:
+Su subárbol izquierdo (el 20 y sus hijos) tiene una altura máxima de 1. Su subárbol derecho (el 40 solo) tiene altura 0.
+bf = h(Izq) - h(Der)
+bf = 1 - 0 = 1 
+
+
+
