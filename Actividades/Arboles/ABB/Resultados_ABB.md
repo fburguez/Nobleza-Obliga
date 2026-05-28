@@ -63,6 +63,11 @@ Su subárbol izquierdo (el 20 y sus hijos) tiene una altura máxima de 1. Su sub
 bf = h(Izq) - h(Der)
 bf = 1 - 0 = 1 
 
+## Ejercicio 7 - TDA Árbol B: Reglas 
+En un Arbol B de orden 3, sus reglas serían;
+1. La capacidad máxima de datos es de 2
+2. La capacidad mínima de datos es de 1
+
 ## Ejercicio 8 - Inserción en Árbol B 
 
 <br><br>
