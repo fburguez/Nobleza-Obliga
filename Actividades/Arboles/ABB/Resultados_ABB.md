@@ -69,9 +69,8 @@ El nodo desbalanceado es el 30, con bf = -2
 2. Tipo de rotación y árbol final: <br>
 Se aplica una Rotación Simple Derecha (RSD) en el 30 (siempre es el nodo desbalanceado). El 20 asciende como nueva raíz, el 10 queda como su hijo izquierdo y el 30 como su hijo derecho: <br>
  
-<img src="img/Ejercicio5.png" width="400">
+<img src="img/Ejercicio5.png" width="200">
 
-   <br>
 Todos los nodos quedan con bf = 0.
 
 ## Ejercicio 6
