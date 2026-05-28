@@ -149,4 +149,4 @@ Estrategia 3: Está es la única que no necesita de una variable auxiliar. Se re
   Se resolvieron diferentes ejercicios a partir de la teoria sobre Arboles Binarios Balanceados
 </p>
 
-[Ejercicios Resueltos]()
+[Ejercicios Resueltos](Actividades/Arboles/ABB/Resultados_ABB.md)
