@@ -63,5 +63,13 @@ Su subárbol izquierdo (el 20 y sus hijos) tiene una altura máxima de 1. Su sub
 bf = h(Izq) - h(Der)
 bf = 1 - 0 = 1 
 
+## Ejercicio 8 - Inserción en Árbol B 
+
+<br><br>
+<p align="center">
+  <img src="img/Ejercicio8.png" width="400">
+</p>
+
+
 
 
