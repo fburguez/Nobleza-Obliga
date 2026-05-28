@@ -87,10 +87,10 @@ En un Arbol B de orden 3, sus reglas serían;
 2. La capacidad mínima de datos es de 1
 
 ## Ejercicio 8 - Inserción en Árbol B 
-
+(hay que poner los casilleros de cantidad maxima de datos, no como abajo)
 <br><br>
 <p align="center">
-  <img src="img/Ejercicio8.png" width="400">
+  <img src="img/Ejercicio8.png" width="600">
 </p>
 
 
