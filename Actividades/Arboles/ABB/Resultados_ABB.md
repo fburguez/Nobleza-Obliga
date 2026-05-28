@@ -35,7 +35,7 @@ Hojas son los nodos: 20, 40, 60, 80
 ## Ejercicio 4 -  Factores de Balance AVL
 <br><br>
 <p align="center">
-  <img scr="img/Ejercicio4.png" whidth="400">
+  <img scr="img/Ejercicio 4.png" whidth="400">
 </p>
 Fctores de Balance:
 
